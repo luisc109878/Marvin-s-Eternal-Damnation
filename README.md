@@ -1,5 +1,8 @@
 #Marvin-s-Eternal-Damnation
-Here all the changes will go
+ENGLISH:
+	Here all the changes will go
+ESPAÑOL:
+	aqui iran las cambios
 
 
 # Friday Night Funkin' - Codename Engine (WIP)
